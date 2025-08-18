@@ -1,13 +1,4 @@
-转自https://shipengliang.com/games/psv%e6%95%91%e7%a0%96%e5%9b%be%e6%96%87%e6%95%99%e7%a8%8b.html 
-release中的系统文件可解决c3-3822-5报错
-
-## [时鹏亮的Blog](https://shipengliang.com/ "时鹏亮的Blog")
-
-## 代码-工作经验-成长积累  
-
-### Main menu
-
-## PSV救砖图文教程
+release中的系统文件可解决c3-3822-5报错，转自[PSV救砖图文教程](https://shipengliang.com/games/psv%e6%95%91%e7%a0%96%e5%9b%be%e6%96%87%e6%95%99%e7%a8%8b.html） 
 
 作者：时鹏亮 | 更新时间：07/05/2024 06:00:13
 
