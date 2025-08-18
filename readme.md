@@ -1,4 +1,5 @@
-转自https://shipengliang.com/games/psv%e6%95%91%e7%a0%96%e5%9b%be%e6%96%87%e6%95%99%e7%a8%8b.html，release中的系统文件可解决c3-3822-5报错
+转自https://shipengliang.com/games/psv%e6%95%91%e7%a0%96%e5%9b%be%e6%96%87%e6%95%99%e7%a8%8b.html 
+release中的系统文件可解决c3-3822-5报错
 
 ## [时鹏亮的Blog](https://shipengliang.com/ "时鹏亮的Blog")
 
