@@ -10,7 +10,7 @@
 1.  下载并安装QCMA：[Qcma_setup-0.4.1.exe](https://github.com/codestation/qcma/releases/download/v0.4.1/Qcma_setup-0.4.1.exe "Qcma_setup-0.4.1.exe")
 2.  将[PSV374JP.7z](https://github.com/Electr0Whale/PSVita_System_374_Backup/releases/download/backup/PSV374JP.7z "PSV374JP.7z")下载好，将解压后的所有文件拷贝进QCMA中的PSV update文件夹  
 3.  修改QCMA other选项中的配置如图（因为这里用的是3.74固件，所以version为03.740.000
-[![QCMA Settings](https://i.ooxx.ooo/i/ZGM3Z.png "QCMA Settings")](https://i.ooxx.ooo/i/ZGM3Z.png "QCMA Settings")
+[![QCMA Settings](https://github.com/Electr0Whale/PSVita_System_374_Backup/blob/main/QCMA%20Settings.png "QCMA Settings")](https://github.com/Electr0Whale/PSVita_System_374_Backup/blob/main/QCMA%20Settings.png "QCMA Settings")
 4.  PSV进入安全模式，选升级系统软件  
 5.  连接至电脑进行升级  
 6.  系统会自动识别到升级文件，点继续  
